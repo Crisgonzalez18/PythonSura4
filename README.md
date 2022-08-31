@@ -1,2 +1,3 @@
-# PythonSura4
-Condicionales y ciclos con Python
+# Ciclos y condiciones con Python
+
+## Programado por: Cristina Gonzalez Rodriguez
